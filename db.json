@@ -1,15 +1,15 @@
 {
-  "Danh Mục": [
-    { "id": 1, "Category": "Khoa học" },
-    { "id": 2, "Category": "Giáo dục" },
-    { "id": 3, "Category": "Đời sống" },
-    { "id": 4, "Category": "Trường học" },
-    { "id": 5, "Category": "Xã hội" },
-    { "id": 6, "Category": "Âm nhạc" },
-    { "id": 6, "Category": "Thời trang" },
-    { "id": 7, "Category": "Du lịch" }
+  "Category": [
+    { "id": 1, "CategoryName": "Khoa học" },
+    { "id": 2, "CategoryName": "Giáo dục" },
+    { "id": 3, "CategoryName": "Đời sống" },
+    { "id": 4, "CategoryName": "Trường học" },
+    { "id": 5, "CategoryName": "Xã hội" },
+    { "id": 6, "CategoryName": "Âm nhạc" },
+    { "id": 6, "CategoryName": "Thời trang" },
+    { "id": 7, "CategoryName": "Du lịch" }
   ],
-  "Tin Tức": [
+  "News": [
    {"id": 1 ,"Title" : "Phó Trưởng Công an huyện và Trưởng phòng Văn hóa đuối nước tử vong" , "Image" : "", "Brief" : "Tối ngày 21/7, tại đập Chắt, xã Phú Khê (Cẩm Khê, Phú Thọ) Thông tin huyện Cẩm Khê tử vong, một số người đi cùng đoàn may mắn thoát nạn.", "Contetnt": "Sáng 22/7,ê tử vong" ,"PostedDate":"22/07/2021"},
    {"id": 2 ,"Title" : "Nữ ca sĩ nổi tiếng từ Sao Mai Điểm Hẹn nhưng khổ sở vì ảnh nóng, sau 15 năm mới hé lộ: “Bố mẹ là người đầu tiên nhận được hình của tôi và người đó”" , "Image" : "", "Brief" : "Những chia sẻ mới nhất của nữ ca sĩ này về những biến cố lớn trong đời nhận được rất nhiều sự chú ý từ khán giả.", "Contetnt": "Nguyễn Hồng Nhung là một trong nhữộ cả ảnh nóng.Sau 15 năm kể từ ngày scandal lộ ảnh nóng rầm rộ trên MXH, mới đây, nữ ca sĩ bất ngờ xuất hiện trong chương trình Duyên Phận. Đáng nói, đây cũng là lần hiếm hoi cô chia sẻ với netizen về những biến cố lớn trong cuộc đời của mình." ,"PostedDate":"22/07/2021"},
    {"id": 3 ,"Title" : "Hàng nghìn người từ TP.HCM đổ về quê tránh dịch bằng xe máy" , "Image" : "", "Brief" : "Mỗi ngày có hàng trăm người từ các tỉnh phía Nam đi xe máy, ô tô cá nhân về Quảng Ngãi tránh dịch.", "Contetnt": "Những ngày qua, khi nhiều tỉnh phía Nam bùng phát dịch và thực hiện giãn cách xã hội theo Chỉ thị 16 của Thủ tướng Chính phủ, lượng người đổ về Quảng NTP.HCM… qua chốt kiểm soát dịch tại đèo Bình Đê (giáp ranh giữa tỉnh Bình Định và Quảng Ngãi), vào địa phận Quảng Ngãi." ,"PostedDate":"22/07/2021"},
